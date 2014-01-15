@@ -12,7 +12,7 @@ JavaScript, jQuery, css-фреймворки
 
 4. [Демо по событиям нажатий клавиш](http://javascript.info/tutorial/keyboard-events)
 
-5. CSS-фреймворки: [Twitter Bootstrap](http://getbootstrap.com/components/) и [http://purecss.io/](http://purecss.io/)
+5. CSS-фреймворки: [Twitter Bootstrap](http://getbootstrap.com/components/) и [PureCSS](http://purecss.io/)
 
 
 Задание
