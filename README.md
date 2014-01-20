@@ -6,7 +6,7 @@ JavaScript, jQuery, CSS-фреймворки
 
 1. [Чистый JavaScript для проверки данных в форме](http://jsfiddle.net/u56uW/4/)
 
-2. Пример выбора поездов: [код](rasp), [результат](http://vpavlenko.github.io/js-todo-task/)
+2. Пример выбора поездов: [код](rasp), [результат](http://vpavlenko.github.io/js-todo-task/rasp/)
 
 3. [Навешивание эвентов к выбранным элементом и к классу](http://jsfiddle.net/8YbM9/1/)
 
