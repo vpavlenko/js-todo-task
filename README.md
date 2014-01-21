@@ -14,6 +14,8 @@ JavaScript, jQuery, CSS-фреймворки
 
 5. CSS-фреймворки: [Twitter Bootstrap](http://getbootstrap.com/components/) и [PureCSS](http://purecss.io/)
 
+6. [Заготовка с урока](http://jsfiddle.net/99LTX/3/)
+
 
 Задание
 -------
