@@ -16,6 +16,9 @@ JavaScript, jQuery, CSS-фреймворки
 
 6. [Заготовка с урока](http://jsfiddle.net/99LTX/3/)
 
+7. [Пример на возможности jQuery](http://jsfiddle.net/J45tc/6/)
+
+
 
 Задание
 -------
